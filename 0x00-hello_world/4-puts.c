@@ -1,14 +1,12 @@
 #include <stdio.h>
 
-/**
- * main - Entry point 
+/*
  *
- * Return Always 0
- * 
- * Here is my first program on Alx
+ * Return Always 0 (success)
+ *
  */
-int main(void);
+int main(void)
 {
-	printf("Programming is like building a multilingual puzzle"\n);
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
